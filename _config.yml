@@ -6,6 +6,7 @@ url: http://hhxiao.github.io
 title: Paradise Bird
 subtitle: Flying between A & C
 author: Haihua Xiao
+email_md5: 29922c78912b231ee75933fe9279ac31
 simple_search: https://www.google.com/search
 description:
 
@@ -19,7 +20,6 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -64,10 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: hhxiao
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
+
+# LinkedIn
+linkedin_user: hhxiao
 
 # Twitter
 twitter_user:
